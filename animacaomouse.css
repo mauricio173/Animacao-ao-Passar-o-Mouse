@@ -18,7 +18,7 @@
 @keyframes rotate {
     to {
         --angle: 360deg;
-    }
+    }}
   }
 
 *,
